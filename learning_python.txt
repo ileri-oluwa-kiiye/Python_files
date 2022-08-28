@@ -1,0 +1,12 @@
+This text file is to summarise what I have learnt so far in this python journey:
+
+With the 'Python_Crash_Course' notebook, 
+I learned about strings and variables firstly.
+A variable could contain a string and all of that. I'm very not good at summarizing actually.
+a string is usually in the form: 'This is Ileri'
+Yes, it is usually bounded by 'Single' or "double" quotation marks.
+There are floats, decimals, integers also.
+
+I learnt about lists, booleans, tuples, dictionaries too.
+I should actually go through them tomorrow and finish typing this text file.
+
